@@ -4,8 +4,8 @@ date: 2023-03-19 18:00:00 +0900
 categories: [Normal]
 tags: [normal]
 ---
-## How can I write new post? https://chirpy.cotes.page/posts/write-a-new-post/
-clear
+## How can I write new post? <https://chirpy.cotes.page/posts/write-a-new-post/>
+
 ### test C code
 ```c
 #include <stdio.h>
