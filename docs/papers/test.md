@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 논문 포스팅 테스트
-parent: 논문
+title: Paper posting test
+parent: Papers
 nav_order: 1
 ---
 
