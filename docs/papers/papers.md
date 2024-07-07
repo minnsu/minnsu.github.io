@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 논문
+title: Papers
 nav_order: 2
 has_children: true
 permalink: /docs/papers
