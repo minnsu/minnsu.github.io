@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 기타 포스팅 테스트
-parent: 기타
+title: etc. posting test
+parent: etc.
 nav_order: 1
 ---
 
