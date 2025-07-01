@@ -23,24 +23,23 @@ p, div {
         <p>Email: kms48491000@gmail.com</p>
         <p>GitHub: <a href="https://github.com/minnsu">minnsu</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%88%98-%EA%B9%80-119bba316/">Minsu Kim</a></p>
-        <p>Blog: <a href="https://velog.io/@minnsu/posts">minnsu.log</a></p>
     </div>
 </div>
 
 ## Summary
 Senior student of Computer Science and Engineering at Sungkyunkwan University.
-My research interests are in artificial intelligence, with a particular focus on robotics and representation learning.
+I am currently interested in data analysis and various Machine Learning fields.
 
 ## Education
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="width: 10%; text-align: left;">
         Mar 2020 ~
-        Present
+        Aug 2025
     </div>
     <div style="width: 70%; text-align: left;">
         <strong>Sungkyunkwan University</strong><br>
         Computer Science and Engineering<br>
-        BS Student (GPA 4.45 / 4.5)<br>
+        BS (GPA 4.46 / 4.5)<br>
     </div>
     <div style="width: 20%; text-align: right;">
         Suwon, Korea
@@ -60,7 +59,8 @@ My research interests are in artificial intelligence, with a particular focus on
         Dec 2024
     </div>
     <div style="width: 90%; text-align: left;">
-        <strong>Research Intern, Sungkyunkwan University</strong><br>
+        <strong>Sungkyunkwan University</strong><br>
+        <strong>Research Intern</strong><br>
         Robotics learning in simulator and realworld environments with Imitation Learning (ACT) and Reinforcement Learning (RLPD) algorithms.
     </div>
 </div><br>
@@ -70,7 +70,17 @@ My research interests are in artificial intelligence, with a particular focus on
         Feb 2025
     </div>
     <div style="width: 90%; text-align: left;">
-        <strong>Intern, Samsung Electronics (Planned)</strong><br>
+        <strong>Samsung Electronics DS, AI Center</strong><br>
+        <strong>Intern</strong><br>
+        Optimizing DB pipeline performance
+    </div>
+</div><br>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="width: 10%; text-align: left;">
+        July 2025 ~
+    </div>
+    <div style="width: 90%; text-align: left;">
+        <strong>NAVER</strong><br>
     </div>
 </div><br>
 
